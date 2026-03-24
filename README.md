@@ -65,6 +65,15 @@ Lors du premier lancement :
 
 ---
 
+
+# 📸 3. Ajouter une capture (TRÈS important)
+
+👉 dans ton README ajoute :
+<img width="950" height="246" alt="display" src="https://github.com/user-attachments/assets/efc9a981-88c3-464e-90e4-fad6e559c08d" />
+<img width="1000" height="374" alt="login" src="https://github.com/user-attachments/assets/08f1cbd8-7825-4fe1-bc34-adc8f46a7186" />
+
+
+
 ## ⚠️ Limitations connues
 
 * L’icône du fichier `.AppImage` peut apparaître générique sous GNOME (normal)
