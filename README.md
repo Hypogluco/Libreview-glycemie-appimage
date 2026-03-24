@@ -1,0 +1,118 @@
+# 🩸 LibreView Glycémie (AppImage Linux)
+
+Application légère pour afficher votre glycémie LibreView directement sur le bureau Linux.
+
+⚠️ **Projet non officiel** – non affilié à Abbott / LibreView.
+
+---
+
+## ✨ Fonctionnalités
+
+* 📡 Récupération automatique des données LibreView
+* 🖥️ Affichage en widget discret sur le bureau
+* 🔄 Mise à jour automatique (toutes les 60 secondes)
+* 🎯 Couleur selon glycémie :
+
+  * 🔴 < 70 → hypoglycémie
+  * 🟢 70–180 → normal
+  * 🟠 > 180 → hyperglycémie
+* 📌 Position mémorisée
+* 🔒 Mode verrouillage (anti-déplacement)
+* 🔍 Taille de police ajustable à la molette
+* ⚡ Rafraîchissement manuel (clic molette)
+* ❌ Quitter avec triple clic
+
+---
+
+## 📦 Installation
+
+Aucune installation nécessaire.
+
+1. Télécharger le fichier `.AppImage` depuis **Releases**
+2. Rendre exécutable :
+
+```bash
+chmod +x LibreView_Glycemie-x86_64.AppImage
+```
+
+3. Lancer :
+
+```bash
+./LibreView_Glycemie-x86_64.AppImage
+```
+
+---
+
+## 🔐 Première utilisation
+
+Lors du premier lancement :
+
+* entrez vos identifiants LibreView
+* ils sont stockés localement sur votre machine
+
+---
+
+## 🖱️ Utilisation
+
+| Action             | Effet                       |
+| ------------------ | --------------------------- |
+| Clic gauche        | Déplacer                    |
+| Clic droit         | Verrouiller / déverrouiller |
+| Molette            | Changer taille du texte     |
+| Clic molette       | Rafraîchir                  |
+| Double clic gauche | Mode XXL                    |
+| Triple clic gauche | Quitter                     |
+
+---
+
+## ⚠️ Limitations connues
+
+* L’icône du fichier `.AppImage` peut apparaître générique sous GNOME (normal)
+* Dépend de l’API LibreView (peut changer côté serveur)
+* Nécessite une connexion internet
+
+---
+
+## 🛠️ Technologies
+
+* Python 3
+* PyQt5
+* Requests
+* PyInstaller
+* AppImage
+
+---
+
+## 🔄 Mises à jour
+
+Téléchargez simplement la nouvelle version dans **Releases**.
+
+Aucune installation requise.
+
+---
+
+## ❤️ Contribution
+
+Ce projet est distribué gratuitement pour aider les personnes diabétiques.
+
+Les contributions, idées et retours sont les bienvenus.
+
+---
+
+## ⚖️ Avertissement
+
+Ce logiciel :
+
+* n’est pas un dispositif médical
+* ne remplace pas un avis médical
+* est fourni tel quel, sans garantie
+
+---
+
+## 🙏 Remerciements
+
+* Communauté open-source
+* Utilisateurs LibreView
+* Personnes vivant avec le diabète
+
+---
