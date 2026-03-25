@@ -1,6 +1,6 @@
-# 🩸 LibreView Glycémie (AppImage Linux)
+# 🩸 HypoGluco-App
 
-Application légère pour afficher votre glycémie LibreView directement sur le bureau Linux.
+Application légère pour afficher votre glycémie LibreView directement sur le bureau Linux, Windows et bientot Mac
 
 ⚠️ **Projet non officiel** – non affilié à Abbott / LibreView.
 
@@ -26,23 +26,20 @@ Application légère pour afficher votre glycémie LibreView directement sur le 
 
 ## 📦 Installation
 
-Aucune installation nécessaire.
+**HypoGluco** est une application multiplateforme, disponible pour **Windows** et **Linux**. Aucune installation n'est nécessaire.
 
-1. Télécharger le fichier `.AppImage` depuis **Releases**
-2. Rendre exécutable :
+### 🔽 Pour Windows :
 
-```bash
-chmod +x LibreView_Glycemie-x86_64.AppImage
-```
+1. Télécharger le fichier `HypoGluco.exe` depuis **Releases**.
+2. Double-cliquez sur l'exécutable pour lancer l'application.
 
-3. Lancer :
+### 🔽 Pour Linux (AppImage) :
 
-```bash
-./LibreView_Glycemie-x86_64.AppImage
-```
+1. Télécharger le fichier `.AppImage` depuis **Releases**.
+2. Rendre le fichier exécutable :
 
----
-
+   ```bash
+   chmod +x HypoGluco.AppImage
 ## 🔐 Première utilisation
 
 Lors du premier lancement :
@@ -59,8 +56,7 @@ Lors du premier lancement :
 | Clic gauche        | Déplacer                    |
 | Clic droit         | Verrouiller / déverrouiller |
 | Molette            | Changer taille du texte     |
-| Clic molette       | Rafraîchir                  |
-| Double clic gauche | Mode XXL                    |
+| Clic molette       | Rafraîchir                  |                 
 | Triple clic gauche | Quitter                     |
 
 ---
@@ -115,13 +111,5 @@ Ce logiciel :
 * n’est pas un dispositif médical
 * ne remplace pas un avis médical
 * est fourni tel quel, sans garantie
-
----
-
-## 🙏 Remerciements
-
-* Communauté open-source
-* Utilisateurs LibreView
-* Personnes vivant avec le diabète
 
 ---
