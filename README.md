@@ -47,6 +47,11 @@ Lors du premier lancement :
 * entrez vos identifiants LibreView
 * ils sont stockés localement sur votre machine
 
+🔽 Pour macOS :
+Télécharger le fichier .app depuis la section Releases.
+Glisser-déposer l'application HypoGluco dans votre dossier Applications.
+Lancer l'application depuis le dossier Applications.
+
 ---
 
 ## 🖱️ Utilisation
