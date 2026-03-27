@@ -1,6 +1,6 @@
 # 🩸 HypoGluco-App
 
-Application légère pour afficher votre glycémie LibreView directement sur le bureau Linux, Windows et bientot Mac
+Application légère pour afficher votre glycémie LibreView directement sur le bureau Linux, Windows et Mac OS
 
 ⚠️ **Projet non officiel** – non affilié à Abbott / LibreView.
 
