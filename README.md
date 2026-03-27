@@ -33,6 +33,11 @@ Application légère pour afficher votre glycémie LibreView directement sur le 
 1. Télécharger le fichier `HypoGluco.exe` depuis **Releases**.
 2. Double-cliquez sur l'exécutable pour lancer l'application.
 
+### 🔽 Pour macOS :
+Télécharger le fichier .zip depuis la section Releases.
+Décompresser le fichier et Glisser-déposer l'application HypoGluco dans votre dossier Applications.
+Lancer l'application depuis le dossier Applications.
+
 ### 🔽 Pour Linux (AppImage) :
 
 1. Télécharger le fichier `.AppImage` depuis **Releases**.
@@ -40,6 +45,8 @@ Application légère pour afficher votre glycémie LibreView directement sur le 
 
    ```bash
    chmod +x HypoGluco.AppImage
+
+   
 ## 🔐 Première utilisation
 
 Lors du premier lancement :
